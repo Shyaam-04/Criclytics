@@ -109,31 +109,31 @@ PORT=5000
 >
 **NavBar Component:**
 
-![alt text](image.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image.png)
 ---
 **Home Page: (With all team names and info)**
 
-![alt text](image-2.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image-2.png)
 ---
 **Total Players Page: (All players irrespective of teams with working of search bar)**
 
-![alt text](image-3.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image-3.png)
 ---
 **Batting Stats of each specific player:**
 
-![alt text](image-4.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image-4.png)
 ---
 **Bowling stats of each specific player**:
 
-![alt text](image-5.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image-5.png)
 ---
 **Orange Cap Leaderboard preview**:
 
-![alt text](image-6.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image-6.png)
 ---
 **Purple Cap Leaderboard preview**:
 
-![alt text](image-7.png)
+![alt text](https://github.com/Shyaam-04/Criclytics/blob/6f214859fba2454b8745f4af1a0cb7a59cdc0aec/assets/screenshots/image-7.png)
 ---
 
 
