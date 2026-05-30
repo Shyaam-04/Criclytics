@@ -154,7 +154,6 @@ PORT=5000
 - [ ] Add charts with Recharts or Chart.js
 - [ ] Add caching to speed up leaderboard queries
 - [ ] Add user authentication
-- [ ] Deploy frontend (Vercel) and backend (Railway)
 
 ---
 
